@@ -21,4 +21,3 @@ I am a Master student in school of Aeronautics, Northwestern Polytechnical Unive
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
