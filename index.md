@@ -14,7 +14,7 @@ I am a Master student in school of Aeronautics, Northwestern Polytechnical Unive
 
 ## News
 
-- **[Aug. 2025]** Our paper on aerodynamic loads was accepted for publication in the Engineering Applications of Computational Fluid Mechanics journal..
+- **[Aug. 2025]** Our paper on aerodynamic loads was accepted for publication in the Engineering Applications of Computational Fluid Mechanics journal.
 - **[Oct. 2024]** I was awarded the National Scholarship for Postgraduates!
 - **[Sep. 2024]** I gave an oral presentation at the 34th Congress of the International Council of the Aeronautical Sciences (ICAS)!
 - **[Sep. 2023]** I began my Master's degree in Mechanics at NWPU!
