@@ -3,10 +3,9 @@ main:
   - title: Machine learning of skin friction distribution based on surface inviscid flow feature
     authors: <strong> Shule Zhao</strong>, Weiwei Zhang* (*Corresponding authors)
     journal: Chinese Journal of Theoretical and Applied Mechanics</strong> (in Chinese), 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: https://lxxb.cstam.org.cn/en/article/pdf/preview/10.6052/0459-1879-23-615.pdf
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
