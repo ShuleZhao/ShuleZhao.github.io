@@ -4,7 +4,7 @@ main:
     authors: <strong> Shule Zhao</strong>, Weiwei Zhang* (*Corresponding authors)
     conference: Chinese Journal of Theoretical and Applied Mechanics(in Chinese), 2024.
     pdf: https://lxxb.cstam.org.cn/en/article/doi/10.6052/0459-1879-23-615
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CJTAM.png
     notes: Accept, online
 
   - title: "CORRELATION MODELLING OF SURFACE INVISCID FLOW CHARACTERISTICS AND FRICTION DISTRIBUTION BASED ON MACHINE LEARNING"
@@ -13,18 +13,18 @@ main:
     conference: the 34th Congress of the International Council of the Aeronautical Sciences (ICAS), 2024.
     pdf: https://www.icas.org/icas_archive/icas2024/data/papers/icas2024_0958_paper.pdf
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/ICAS.png
 
   - title: "Envisioning the blueprint: Aeronautics in large models era"
     authors: Weiwei Zhang* (*Corresponding authors), <strong> Shule Zhao</strong>
     conference: Chinese Journal of Aeronautics, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S1000936125002134?ref=pdf_download&fr=RR-2&rr=977116514de309fc
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/CJA.jpg
     notes: Accept, online
 
   - title: "Euler Equation Embedded Machine Learning Method for Wall Pressure and Skin Friction Distribution"
     authors:  <strong> Shule Zhao</strong>, Weiwei Zhang* (*Corresponding authors)
     conference: Engineering Applications of Computational Fluid Mechanics, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S1000936125002134?ref=pdf_download&fr=RR-2&rr=977116514de309fc
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/EACFM.jpg
     notes: Accept
