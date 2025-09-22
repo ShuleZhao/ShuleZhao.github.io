@@ -25,6 +25,6 @@ main:
   - title: "Euler Equation Embedded Machine Learning Method for Wall Pressure and Skin Friction Distribution"
     authors:  <strong> Shule Zhao</strong>, Weiwei Zhang* (*Corresponding authors)
     conference: Engineering Applications of Computational Fluid Mechanics, 2025.
-    pdf: https://www.sciencedirect.com/science/article/pii/S1000936125002134?ref=pdf_download&fr=RR-2&rr=977116514de309fc
+    pdf: https://www.tandfonline.com/doi/full/10.1080/19942060.2025.2556450
     image: ./assets/img/EACFM.jpg
-    notes: Accept
+    notes: Accept,online
