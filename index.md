@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master student in school of Aeronautics, Northwestern Polytechnical University(NPU), supervised by ​Prof. [Zhang Weiwei](https://scholar.google.com.hk/citations?user=NEBn5mIAAAAJ&hl=en&oi=ao), with co-supervision from Prof. [Kou Jiaqing](https://scholar.google.com.hk/citations?user=sHFcEwMAAAAJ&hl=en). My research focuses on AI for aerodynamics and aircraft design. I earned my Bachelor of Engineering in Aircraft Design from NPU and continued my studies here as a graduate student under a guaranteed admission scheme.
+I am a Master student in school of Aeronautics, Northwestern Polytechnical University(NPU), supervised by ​Prof. [Zhang Weiwei](https://scholar.google.com.hk/citations?user=NEBn5mIAAAAJ&hl=en&oi=ao), with co-supervision from Prof. [Kou Jiaqing](https://scholar.google.com.hk/citations?user=sHFcEwMAAAAJ&hl=en). My research focuses on AI for aerodynamics and shape design. I earned my Bachelor of Engineering in Aircraft Design from NPU and continued my studies here as a graduate student under a guaranteed admission scheme.
 ## Research Interests
 
 - **Fluid Mechanics:** Aerodynamic Modelling, Aerodynamic loads 
