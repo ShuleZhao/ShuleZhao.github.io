@@ -12,7 +12,7 @@ I am a Master student in school of Aeronautics, Northwestern Polytechnical Unive
 - **Aerodynamic design:** generative design, aerodynamic shape optimazition 
 
 ## News
-
+- **[Oct. 2025]** I was awarded the National Scholarship for Postgraduates again！
 - **[Aug. 2025]** Our paper on aerodynamic loads was accepted for publication in the Engineering Applications of Computational Fluid Mechanics journal.
 - **[Oct. 2024]** I was awarded the National Scholarship for Postgraduates!
 - **[Sep. 2024]** I gave an oral presentation at the 34th Congress of the International Council of the Aeronautical Sciences (ICAS)!
